@@ -8,4 +8,9 @@ class Pw
 
   ///code
 }
+{
+ public void m3(){
+
+  ///code
+}
 }
